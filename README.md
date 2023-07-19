@@ -20,7 +20,7 @@ To utilize, open webpage. https://lilpinc.github.io/Random-Password-Generator/
 Collaborators/Third-party:
 
 - Bootcamp Instructor Dan, TA's, and classmates.
-- Coding friend to help me understand how to better outline my thinking process and utilize CharAt rather than split('').
+- Coding friend to help me understand how to better outline my thinking process and utilize CharAt rather than incorporating split('') - line 52.
 - Modzilla.org
 - W3schools.com
 
