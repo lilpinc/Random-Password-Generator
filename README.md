@@ -13,7 +13,7 @@ This password generator was created to understand how to incorporate javascript 
 
 This generator can be used to create a password! It can also be used to review basic javascript.
 
-To utilize, open webpage. 
+To utilize, open webpage. https://lilpinc.github.io/Random-Password-Generator/
 
 ## Credits
 
