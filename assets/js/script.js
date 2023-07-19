@@ -55,7 +55,8 @@ function generatePassword() {
    return createdPassword;
   }
     
-// Write password to the #password input. writePassword has a variable called password that is initially blank. When writePassword is called, a prompt asks how many characters the user would like to contain. It has to be between 8 to 128 characters, so if it outside of that the password will not generate and an alert generated. If it is, the function generatePassword will be called.
+/* Write password to the #password input. 
+writePassword has a variable called password that is initially blank. When writePassword is called, a prompt asks how many characters the user would like to contain. It has to be between 8 to 128 characters, so if it outside of that the password will not generate and an alert generated. If it is, the function generatePassword will be called. */
 function writePassword() {
 
   var password = '';
